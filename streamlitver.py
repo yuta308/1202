@@ -6,8 +6,6 @@ Created on Mon Nov 22 13:41:39 2021
 """
 import streamlit as st
 import requests
-import json
-import requests
 import io
 import time
 from PIL import Image
